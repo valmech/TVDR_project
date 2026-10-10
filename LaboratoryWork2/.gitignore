@@ -1,0 +1,17 @@
+# This temporary folder is crucial to ignore
+[Ll]ibrary/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Visual Studio / VS Code cache files
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
